@@ -3,8 +3,13 @@ layout: post
 title: "today we'll learn about don quixote"
 categories:
 ---
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+One of my all-time favorite shows is <a href="https://en.wikipedia.org/wiki/The_Newsroom_(American_TV_series)" target="_blank">Newsroom</a>. Will McAvoy is a guy after my own heart. In the show, Will frequently references a character/book -- Don Quixote.
 
--- dhv
+I did a quick search to learn more about Don Quixote and that's how I found Thug Notes.
+
+<p class="video-container">
+<iframe width="600" height="315" src="https://www.youtube.com/embed/PVkzxDJo9-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<br>
+-dhv
