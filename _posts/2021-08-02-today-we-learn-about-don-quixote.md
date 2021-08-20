@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "today we'll learn about don quixote"
+title: "today we learn about don quixote"
 categories:
 ---
 
