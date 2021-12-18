@@ -2,32 +2,7 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-    <h2 class="footer-heading">a truly deep experience...</h2>
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-
-        <ul class="contact-list">
-        <!--  <li class="p-name"><a href="https://instagram.com/deephousevinyasa">@deephousevinyasa</a></li> -->
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-
-        </ul>
-      </div>
-      <div class="footer-col">
-
-      </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
 
   </div>
-
+    {%- include js.html -%}
 </footer>

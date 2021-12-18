@@ -1,9 +1,8 @@
-title: deephousevinyasa
+title: israel machovec
 author:
-  name: deephousevinyasa
-#  email: deephousevinyasa@gmail.com
+  name: israel machovec
+  email: israel.machovec@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  a truly deep experience
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -20,6 +19,7 @@ minima:
 
   # generate social links in footer
   social_links:
+    linkedin: israelmachovec
     #twitter: jekyllrb
     #github:  jekyll
 

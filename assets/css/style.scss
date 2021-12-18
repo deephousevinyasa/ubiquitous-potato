@@ -5,3 +5,16 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+
+h1 {
+  font-size: 28px;
+}
+
+.navbar-brand {
+    font-size: 28px;
+}
+
+.mr-left {
+    margin-left:0
+  }
