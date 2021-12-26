@@ -1,21 +1,29 @@
 <div class="page_wrapper">
+    <!-- Start Page Intro -->
     <div class="intro_section">
         <h2>portfolio.</h2>
         <p>intro description for portfolio.</p>
     </div>
-    <div class="position_company_wrapper">Ecto</div>
-    <div class="position_daterange_wrapper">October 2019 - Present</div>
-    <div class="position_title_wrapper">Product Manager</div>
-    <div class="position_description_wrapper">Managed agile development sprints focused on building data products and
-        analytics solutions
-        for the farming industry. Worked with a team of executives and product analysts to
-        identify market problems and find areas of opportunity. Collaborated with designers, engineers, and data
-        scientists to deliver technical
-        and functional requirements. Launched a data entry management platform that gave remote managers the ability to
-        manage jobs assigned to
-        on-site employees. The platform helped drastically reduce the time spent collecting and cleaning data.
-        Launched a content management system integrated
-        with a third party business intelligence service.
-        This gave us the ability to provide custom reports and dashboards to our customers without development
-        support.</div>
+    <!--End Page Intro -->
+    <!-- Start Position -->
+    <div class="position_wrapper">
+
+        <div class="position_company_wrapper">
+            {{ site.data.positions.ecto.company }}
+        </div>
+        <div class="position_title_wrapper">
+            {{ site.data.positions.ecto.title }}
+        </div>
+        <div class="position_dates_wrapper">
+            {{ site.data.positions.ecto.dates }}
+        </div>
+        <div class="position_description_wrapper">
+            {{ site.data.positions.ecto.description }}
+        </div>
+    </div>
+
+
+
+
+    <!-- End Position -->
 </div>

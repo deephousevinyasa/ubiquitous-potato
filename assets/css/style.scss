@@ -7,25 +7,50 @@
 //   "minima/initialize";
 
 
+
+
+
+// Position
+
+.position_wrapper{
+
+}
+
+.position_company_wrapper {
+  text-decoration: underline;
+  font-size: 18px;
+  color: #000;
+}
+.position_dates_wrapper {}
+.position_title_wrapper {
+  font-weight: bold;
+  
+}
+.position_description_wrapper {
+  margin-top:5px;
+  margin-bottom:5px;
+  text-align: justify;
+}
+
+
+// Header Text
+
 h1 {
   font-size: 28px;
 }
 
 
+// Manu Nav Bar
+
 .navbar-brand {
-    font-size: 28px;
-    margin-left:0;
+  font-size: 28px;
+  margin-left:0;
 }
 
 .nav_wrapper {
 padding: 0,5px,0,5px;
 
 }
-
-.position_company_wrapper {}
-.position_daterange_wrapper {}
-.position_title_wrapper {}
-.position_description_wrapper {}
 
 // .mr-left {
 //     margin-left:0
