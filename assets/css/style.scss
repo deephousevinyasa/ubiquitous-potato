@@ -2,19 +2,43 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+// @import
+//   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+//   "minima/initialize";
 
 
 h1 {
   font-size: 28px;
 }
 
+
 .navbar-brand {
     font-size: 28px;
+    margin-left:0;
 }
 
-.mr-left {
-    margin-left:0
-  }
+.nav_wrapper {
+padding: 0,5px,0,5px;
+
+}
+
+.position_company_wrapper {}
+.position_daterange_wrapper {}
+.position_title_wrapper {}
+.position_description_wrapper {}
+
+// .mr-left {
+//     margin-left:0
+//   }
+
+// .navbar {
+// padding: 0;
+
+// }
+
+// li {
+//   .nav-link {
+//     text-align: right;
+//
+//   }
+// }
