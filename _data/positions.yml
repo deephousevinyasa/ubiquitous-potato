@@ -3,3 +3,33 @@ ecto:
   title: Product Manager
   dates: Oct 2019 - Present
   description: Managed agile development sprints focused on building data products and analytics solutions for the farming industry. Worked with a team of executives and product analysts to identify market problems and find areas of opportunity. Collaborated with designers, engineers, and data scientists to deliver technical and functional requirements. Launched a data entry management platform that gave remote managers the ability to manage jobs assigned to on-site employees. The platform helped drastically reduce the time spent collecting and cleaning data. Launched a content management system integrated with a third party business intelligence service. This gave us the ability to provide custom reports and dashboards to our customers without development support.
+bnr:
+  company: Big Nerd Ranch
+  title: Product Manager
+  dates: April 2018 - October 2019
+  description: Managed product development and content creation for a video-on-demand platform with education content for software engineers. Collaborated with leadership to establish a product strategy, roadmap and vision aligned with existing products. Met with course instructors, coding bootcamp attendees, and internal engineers to identify market opportunities. Managed product backlog, content roadmap, and internal/external resources.
+konstru:
+  company: Konstru
+  title: Product Marketing Manager
+  dates: Aug 2017-April 2018
+  description: Managed product and marketing related projects including the design and development and implementation of the company website. Conducted interviews with structural engineers and architects to identify market opportunities. Developed a process for creating video user guides and product documentation. Leveraged analytics tools for product reporting and internal dashboards.
+machfreelance:
+  company: Machfreelance, LLC
+  title: Project Manager / Web Developer
+  dates: Oct 2016 - Aug 2017
+  description: Freelance contracts supporting startups and digital agencies in web development and digital marketing services.
+pindrop:
+  company: Pindrop Security
+  title: Sr. Business Development Representative
+  dates: Nov 2014-Oct 2016
+  description: 
+tig:
+  company: The Intersect Group
+  title: Account Executive
+  dates: Jun 2012-Oct 2014
+  description: 
+disys:
+  company: Disys
+  title: Account Executive
+  dates: Jun 2011-Jun2012
+  description: 
