@@ -6,6 +6,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 defaults:
   - scope:
       path: "assets/img"
