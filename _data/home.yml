@@ -1,0 +1,29 @@
+header:
+  title: a product manager who loves to build data products and analytics services. 
+working_on:
+  title: what i'm currently working on.
+  item1: Product Manager, Ecto.
+  item2: Building data products and solutions for sustainable animal protein production.
+  item3: Learning more about project management methodologies for analytics projects and on UX/UI design for analytics solutions.
+  item4: Thinking of ways I could leverage my programming,design, and content creation abilities in the NFT space.
+what_i_do:
+  title: what i do.
+  item1: Product Managment
+  item2: Solution Architecture
+  item3: Business Intelligence
+about_this_site:
+  title: about this site.
+  item1: I created this site as a side project to showcase my skills and highlight my experience. If you have any feedback, feel free to leave it here. Want to chat about an opportunity? feel free to reach out!
+  item2: 
+portfolio:
+  title: portfolio.
+  item1:
+blog:
+  title: blog.
+  item1:
+meta:
+  title: meta.
+  item1: Email
+  item2: LinkedIn
+  item3: Instagram
+  item4: Spotify

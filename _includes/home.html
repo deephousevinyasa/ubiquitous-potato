@@ -1,59 +1,127 @@
-<div class="page_wrapper">
-    <div class="intro_section">
-        <h2>product manager who loves to build and promote products that use data for good.
-        </h2>
-    </div>
-    <div class="working_on_section">
-        <h2>what I’m currently working on.</h2>
-        <ul>
-            <li>Product Manager, Ecto.</li>
-            <li>Building data products and solutions for sustainable animal protein production.</li>
-            <li>Learning more about project management methodologies for analytics projects
-                and on UX/UI design for analytics solutions.</li>
-            <li>Thinking of ways I could leverage my programming,design, and content creation abilities in the NFT space.</li>
-        </ul>
-    </div>
-    <div class="what_I_do_section">
-        <h2>what i do.</h2>
-        <ul>
-            <li>Product Managment</li>
-            <li>Solution Architecture</li>
-            <li>Business Intelligence</li>
-        </ul>
-    </div>
-    <div class="about_this_site_section">
-        <h2>about this site.</h2>
-        <p>I created this site as a side project to showcase my skills and highlight my experience. 
-        If you have any feedback, feel free to leave it here. </p>
-        <p>Want to chat about an opportunity? feel free to reach out!</p>
-    </div>
+<!--home intro -->
 
-
-    <div class="porfolio_section">
-        <h2>portfolio.</h2>
-        <ul>
-            <li>Project #1</li>
-            <li>Project #2</li>
-        </ul>
+<div class="gray">
+    <div class="container">
+        <div class="intro_wrapper">
+            <h2>{{ site.data.home.header.title }}
+            </h2>
+        </div>
     </div>
-
-    <div class="blog_section">
-        <h2>blog.</h2>
-        <ul>
-            <li>Blog #1</li>
-            <li>Blog #2</li>
-        </ul>
-    </div>
-
-    <div class="thats_so_meta_section">
-        <h2>meta.</h2>
-        <ul>
-            <li>Email</li>
-            <li>LinkedIn</li>
-            <li>Instagram</li>
-            <li>Twitter</li>
-            <li>Spotify</li>
-        </ul>
-    </div>
-
 </div>
+
+<!--end -->
+
+
+
+<!-- working on -->
+<div class="container row_wrapper">
+    <h2>{{site.data.home.working_on.title}}</h2>
+    <div class="row">
+        <div class="col-md-6">
+            <ul>
+                <li>{{site.data.home.working_on.item1}}</li>
+                <li>{{site.data.home.working_on.item2}}</li>
+                <li>{{site.data.home.working_on.item3}}</li>
+                <li>{{site.data.home.working_on.item4}}</li>
+            </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="image_container"><img src="/assets/img/image.jpg"></div>
+        </div>
+    </div>
+</div>
+<!-- end-->
+
+
+<!-- what i do -->
+<div class="gray">
+    <div class="container  row_wrapper">
+        <h2>{{site.data.home.what_i_do.title}}</h2>
+        <div class="row">
+            <div class="col-md-4">
+                {{site.data.home.what_i_do.item1}}
+            </div>
+            <div class="col-md-4">
+                {{site.data.home.what_i_do.item2}}
+            </div>
+            <div class="col-md-4">
+                {{site.data.home.what_i_do.item3}}
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- end -->
+
+<!-- about this site -->
+
+<div class="container row_wrapper">
+    <div class="row">
+        <div class="col-md-6">
+            <h2>{{site.data.home.about_this_site.title}}</h2>
+            <p>{{site.data.home.about_this_site.item1}}</p>
+            <p>{{site.data.home.about_this_site.item2}}</p>
+        </div>
+        <div class="col-md-6">
+            <div class="image_container"><img src="/assets/img/image.jpg"></div>
+        </div>
+    </div>
+</div>
+<!--end-->
+
+<!-- meta -->
+<div class="gray">
+    <div class="container row_wrapper">
+        <h2>{{site.data.home.meta.title}}</h2>
+        <div class="row">
+            <div class="col-md-3">
+                {{site.data.home.meta.item1}}
+            </div>
+            <div class="col-md-3">
+                {{site.data.home.meta.item2}}
+            </div>
+            <div class="col-md-3">
+                {{site.data.home.meta.item3}}
+            </div>
+            <div class="col-md-3">
+                {{site.data.home.meta.item4}}
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--end-->
+
+<!--portfolio-->
+<div class="container row_wrapper">
+    <h2>{{site.data.home.portfolio.title}}</h2>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="image_container"><img src="/assets/img/image.jpg"></div>
+        </div>
+        <div class="col-md-6">
+            <div class="image_container"><img src="/assets/img/image.jpg"></div>
+        </div>
+    </div>
+</div>
+<!--end-->
+
+<!--blog-->
+<div class="gray">
+    <div class="container row_wrapper">
+
+        <h2>{{site.data.home.blog.title}}</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="image_container"><img src="/assets/img/image.jpg"></div>
+            </div>
+            <div class="col-md-6">
+                <div class="image_container"><img src="/assets/img/image.jpg"></div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!--end-->

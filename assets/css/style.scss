@@ -12,6 +12,19 @@
 
 }
 
+.intro_wrapper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.row_wrapper {
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+.gray {
+  background-color: #efefef;
+}
+
 
 // Position
 
@@ -70,3 +83,29 @@ padding: 0,5px,0,5px;
 //
 //   }
 // }
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.image_container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.image_container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
