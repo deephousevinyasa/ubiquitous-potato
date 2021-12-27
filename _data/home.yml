@@ -17,11 +17,11 @@ what_i_do:
 about_this_site:
   title: about this site.
   subtitle: I created this site as a side project to showcase my skills and highlight my experience. If you have any feedback, feel free to leave it here. Want to chat about an opportunity? feel free to reach out!
-  item1: <a href="/about">about.</a> 
-  item2: <a href="/resume">resume.</a>
-  item3: <a href="/blog">blog.</a>
-  item4: <a href="/portfolio">portfolio.</a>
-  item5: <a href="/">home.</a>
+  item1: <a href="{{ "/about" | relative_url }}">about.</a> 
+  item2: <a href="{{ "/resume" | relative_url }}">resume.</a>
+  item3: <a href="{{ "/blog" | relative_url }}">blog.</a>
+  item4: <a href="{{ "/portfolio" | relative_url }}">portfolio.</a>
+  item5: <a href="{{ "/" | relative_url }}">home.</a>
 portfolio:
   title: portfolio.
   item1:
