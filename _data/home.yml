@@ -21,6 +21,7 @@ about_this_site:
   item2: <a href="/resume">resume.</a>
   item3: <a href="/blog">blog.</a>
   item4: <a href="/portfolio">portfolio.</a>
+  item5: <a href="/">home.</a>
 portfolio:
   title: portfolio.
   item1:
