@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 defaults:
   - scope:
-      path: "assets/img"
+      path: "assets/images"
     values:
       image: true
 
@@ -32,7 +32,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+# theme: minima
 
 
 
