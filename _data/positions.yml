@@ -33,3 +33,29 @@ disys:
   title: Account Executive
   dates: Jun 2011-Jun2012
   description: 
+uga:
+  company: University of Georgia
+  title: B.A. Economics
+  dates: 2006-2011
+  description: 'University of Georgia Men’s Track and Field 5-year letterman and 2010 SEC Shot Put Champion.'
+
+ga:
+  company: General Assembly
+  title: Data Analytics
+  dates: '2016'
+  description: '10 week course on Excel, SQL, and Tableau'
+react:
+  company: Big Nerd Ranch
+  title: Full-Stack Essentials Bootcamp
+  dates: '2018'
+  description: '1 week bootcamp on JavaScript/React fundamentals.'
+pragmatic:
+  company: Pragmatic Marketing Institute 
+  title: Foundations and Build Courses
+  dates: '2018'
+  description:
+yoga:
+  company: Yoga Alliance Teacher Training 
+  title: YTA-200 Training Certification
+  dates: '2019'
+  description: 
