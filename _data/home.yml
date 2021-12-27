@@ -23,7 +23,7 @@ blog:
   item1:
 meta:
   title: meta.
-  item1: Email
-  item2: LinkedIn
-  item3: Instagram
-  item4: Spotify
+  item1: <a href="mailto:israel.machovec@gmail.com">email.</a>
+  item2: <a href="https://www.linkedin.com/in/israelmachovec/">linkedin.</a>
+  item3: <a href="https://www.instagram.com/dizzymacho/">instagram.</a>
+  item4: <a href="https://open.spotify.com/user/1299439200">spotify.</a>
