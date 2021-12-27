@@ -1,5 +1,5 @@
 header:
-  title: a product manager who loves to build data products and analytics services. 
+  title: a product manager who loves to build data products and analytics solutions. 
 working_on:
   title: what i'm currently working on.
   item1: Product Manager, Ecto.
@@ -8,13 +8,19 @@ working_on:
   item4: Thinking of ways I could leverage my programming,design, and content creation abilities in the NFT space.
 what_i_do:
   title: what i do.
-  item1: Product Managment
-  item2: Solution Architecture
-  item3: Business Intelligence
+  item1: product managment.
+  item1sub: Strong experience and capabilities in product development, project management and process and systems analysis.
+  item2: solution architecture.
+  item2sub: Experience strategizing, designing, and deploying solutions to meet complex business requirements.  
+  item3: business intelligence.
+  item3sub: Detailed experience modeling, designing, and developing internal and customer facing business intelligence applications.
 about_this_site:
   title: about this site.
-  item1: I created this site as a side project to showcase my skills and highlight my experience. If you have any feedback, feel free to leave it here. Want to chat about an opportunity? feel free to reach out!
-  item2: 
+  subtitle: I created this site as a side project to showcase my skills and highlight my experience. If you have any feedback, feel free to leave it here. Want to chat about an opportunity? feel free to reach out!
+  item1: <a href="/about">about.</a> 
+  item2: <a href="/resume">resume.</a>
+  item3: <a href="/blog">blog.</a>
+  item4: <a href="/portfolio">portfolio.</a>
 portfolio:
   title: portfolio.
   item1:
@@ -23,6 +29,7 @@ blog:
   item1:
 meta:
   title: meta.
+  subtitle: Find and connect with me online.
   item1: <a href="mailto:israel.machovec@gmail.com">email.</a>
   item2: <a href="https://www.linkedin.com/in/israelmachovec/">linkedin.</a>
   item3: <a href="https://www.instagram.com/dizzymacho/">instagram.</a>
